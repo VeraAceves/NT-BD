@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
   <diagram name="Página-1" id="Hl44oNitHqMF7QENZslq">
-    <mxGraphModel dx="595" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#F3D5F0" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vc5FtgeOKVkO6s-0RQmP-19" value="UserName" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="vc5FtgeOKVkO6s-0RQmP-19" value="UserName" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="510" y="200" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vc5FtgeOKVkO6s-0RQmP-20" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -143,7 +143,7 @@
           <mxGeometry x="505" y="360" width="80" height="30" as="geometry" />
         </mxCell>
         <object label="Mail" Constraint1="1" id="vc5FtgeOKVkO6s-0RQmP-38">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=4" parent="1" vertex="1">
             <mxGeometry x="505" y="405" width="80" height="30" as="geometry" />
           </mxCell>
         </object>
@@ -287,6 +287,11 @@
         <mxCell id="uXbnWWuEAE8pzdTjfp0h-7" value="&lt;div&gt;(0,N)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#F3D5F0,#EDEDED);" vertex="1" connectable="0" parent="1">
           <mxGeometry x="768" y="104" as="geometry">
             <mxPoint x="-5" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uXbnWWuEAE8pzdTjfp0h-8" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#F3D5F0,#EDEDED);" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="422" y="389" as="geometry">
+            <mxPoint x="1" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
