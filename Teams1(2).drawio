@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
   <diagram name="Página-1" id="L_BSh97Rvrajgwu3YOM5">
-    <mxGraphModel dx="1381" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="light-dark(#E6D0DE,#AF8383)" math="0" shadow="1">
+    <mxGraphModel dx="1281" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="light-dark(#E6D0DE,#AF8383)" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -412,7 +412,7 @@
         <mxCell id="4Ge2thAeXuA-6wFqmvGh-10" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="842" y="516" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4Ge2thAeXuA-6wFqmvGh-11" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="4Ge2thAeXuA-6wFqmvGh-11" value="(0,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1372" y="478" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Ge2thAeXuA-6wFqmvGh-12" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
