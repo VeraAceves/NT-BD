@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
   <diagram name="Página-1" id="hmPzd6-MISRAv3zJ79Oc">
-    <mxGraphModel dx="868" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#efe9ee, #121212)" math="0" shadow="1">
+    <mxGraphModel dx="772" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#efe9ee, #121212)" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,11 +277,11 @@
         <mxCell id="b1jiOyI4bibXz9lMUhJJ-82" value="Ciudad" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="629" y="834" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b1jiOyI4bibXz9lMUhJJ-83" value="Capacidad" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="629" y="923" width="80" height="30" as="geometry" />
+        <mxCell id="b1jiOyI4bibXz9lMUhJJ-83" value="CapHabilitada" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="618" y="590" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b1jiOyI4bibXz9lMUhJJ-84" value="CantPolicia" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="629" y="967" width="80" height="30" as="geometry" />
+          <mxGeometry x="618" y="625" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b1jiOyI4bibXz9lMUhJJ-85" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b1jiOyI4bibXz9lMUhJJ-80" target="b1jiOyI4bibXz9lMUhJJ-7">
           <mxGeometry relative="1" as="geometry">
@@ -301,16 +301,16 @@
             <mxPoint x="760" y="776" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1jiOyI4bibXz9lMUhJJ-88" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b1jiOyI4bibXz9lMUhJJ-83" target="b1jiOyI4bibXz9lMUhJJ-7">
+        <mxCell id="b1jiOyI4bibXz9lMUhJJ-88" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b1jiOyI4bibXz9lMUhJJ-83" target="b1jiOyI4bibXz9lMUhJJ-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="735" y="1115" as="sourcePoint" />
-            <mxPoint x="760" y="776" as="targetPoint" />
+            <mxPoint x="740" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1jiOyI4bibXz9lMUhJJ-89" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b1jiOyI4bibXz9lMUhJJ-84" target="b1jiOyI4bibXz9lMUhJJ-7">
+        <mxCell id="b1jiOyI4bibXz9lMUhJJ-89" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b1jiOyI4bibXz9lMUhJJ-84" target="b1jiOyI4bibXz9lMUhJJ-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="755" y="1155" as="sourcePoint" />
-            <mxPoint x="760" y="776" as="targetPoint" />
+            <mxPoint x="740" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b1jiOyI4bibXz9lMUhJJ-90" value="NumTicket" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
