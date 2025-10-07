@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
   <diagram name="Página-1" id="hmPzd6-MISRAv3zJ79Oc">
-    <mxGraphModel dx="1097" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#efe9ee, #121212)" math="0" shadow="1">
+    <mxGraphModel dx="868" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#efe9ee, #121212)" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         </mxCell>
         <mxCell id="b1jiOyI4bibXz9lMUhJJ-119" value="Es reeplazado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b1jiOyI4bibXz9lMUhJJ-26">
           <mxGeometry x="0.3438" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-12" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b1jiOyI4bibXz9lMUhJJ-8" value="Reemplaza" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -199,9 +199,6 @@
         <mxCell id="b1jiOyI4bibXz9lMUhJJ-58" value="NombreDT" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="150" y="358.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b1jiOyI4bibXz9lMUhJJ-59" value="CuerpoTecnico" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="140" y="447.5" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="b1jiOyI4bibXz9lMUhJJ-62" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b1jiOyI4bibXz9lMUhJJ-56" target="b1jiOyI4bibXz9lMUhJJ-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="325" y="500" as="sourcePoint" />
@@ -220,9 +217,9 @@
             <mxPoint x="305" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1jiOyI4bibXz9lMUhJJ-65" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b1jiOyI4bibXz9lMUhJJ-59" target="b1jiOyI4bibXz9lMUhJJ-4">
+        <mxCell id="b1jiOyI4bibXz9lMUhJJ-65" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="b1jiOyI4bibXz9lMUhJJ-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="315" y="340" as="sourcePoint" />
+            <mxPoint x="230" y="462.5" as="sourcePoint" />
             <mxPoint x="305" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -420,6 +417,9 @@
         </mxCell>
         <mxCell id="b1jiOyI4bibXz9lMUhJJ-122" value="Pertenece" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="585" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b1jiOyI4bibXz9lMUhJJ-123" value="CuerpoTecnico" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="130" y="442" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
